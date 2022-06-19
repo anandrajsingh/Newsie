@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Newsie</string>
+    <string name="api_key">864406b97ff942dd88fe7ed404a1501c</string>
 </resources>
